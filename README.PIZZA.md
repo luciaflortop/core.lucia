@@ -22,4 +22,7 @@
 * Coccion                  15m
 * Reposo                   30m
 * La horneamos a   220° con el horno precalentado durante 15 minutos
-* LISTA YA LA TEMINAMOS.
+*  Hay que amasar la masa de la pizza  por 10  minutos
+*  Moldearne en un asafate de metal y estira la base de la pizza  para  que pueda  subiir de temperatura  para que luego  ya se heche la salsa de tomate ,el queso, el pepperoni  y los demas ingredientes.
+*   Ya  finalizandola  ya  la llebamos a  hornear   por 15 minutos 
+*   Y  listo ya  terminamos la pizza.
