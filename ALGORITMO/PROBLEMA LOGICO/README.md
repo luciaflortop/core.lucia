@@ -13,6 +13,7 @@ Eva: "4 personas estudiaron matemáticas ayer".
 
 ## RESPUESTA:
 * Para  mi respuesta seria  que  Alice dice la verdad  que nadie estudios  matematicas ayer .
-* pero  tambien mi respuesta  podria ser  la de eva que talvez dice la verdad que por lo menos 4 estudiantes  estuvieron estudiando  matematicas ayer.
+* pero  tambien mi respuesta  podria ser  la de eva que talvez dice la verdad que por lo menos 4 estudiantes  estuvieron estudiando  matematicas ayer. 
+*  Tambien  una  posible respuesta es la de Bob  es que el dice la verdad  que una persona aprendio  matematicas ayer .
 
 ##  FIN  DE MI ALGORITMO DE PROBLEMA  LOGICO.....
