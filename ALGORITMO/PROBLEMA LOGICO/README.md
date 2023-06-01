@@ -9,4 +9,7 @@ Charlie: "2 personas estudiaron matemáticas ayer".
 Dan: "3 personas estudiaron matemáticas ayer".
 Eva: "4 personas estudiaron matemáticas ayer".
 
-El profesor sabe que solo aquellos que estudiaron estarían diciendo la verdad y aquellos que no estarían mintiendo. ¿Quién está diciendo la verdad?
+* El profesor sabe que solo aquellos que estudiaron estarían diciendo la verdad y aquellos que no estarían mintiendo. ¿Quién está diciendo la verdad?
+
+## RESPUESTA:
+* El profesor sabe que solo aquellos que estudiaron estarían diciendo la verdad y aquellos que no estarían mintiendo. ¿Quién está diciendo la verdad?.
