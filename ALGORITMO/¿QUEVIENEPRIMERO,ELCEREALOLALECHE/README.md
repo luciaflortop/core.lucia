@@ -9,5 +9,6 @@
 *  Agregar  cereal al gusto.
 *  Agregaar  1 litro de leche .
 *  Agregar frutas al su gusto de cada  persona .
-*  ALETA.
-##  DIAGRA  DE  FLUJO:
+*  ALETA.![image](https://github.com/luciaflortop/core.lucia/assets/132409270/228ebbca-19dc-4543-b9d2-5662ee7609d0)
+
+
