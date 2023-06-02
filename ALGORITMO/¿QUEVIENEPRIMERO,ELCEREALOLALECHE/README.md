@@ -9,6 +9,10 @@
 *  Agregar  cereal al gusto.
 *  Agregaar  1 litro de leche .
 *  Agregar frutas al su gusto de cada  persona .
-*  ALETA.![image](https://github.com/luciaflortop/core.lucia/assets/132409270/228ebbca-19dc-4543-b9d2-5662ee7609d0)
+*  ALETA.  
+*  DIAGRAMA DE FLUJO  DE LOS PASOS PARA HACER UN TAZON  DE CEREAL CON LECHE.
+*  
+*  
 
+![image](https://github.com/luciaflortop/core.lucia/assets/132409270/963ea889-e4d5-43df-b941-4522488df907)
 
