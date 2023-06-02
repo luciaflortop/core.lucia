@@ -11,8 +11,5 @@
 *  Agregar frutas al su gusto de cada  persona .
 *  ALETA.  
 *  DIAGRAMA DE FLUJO  DE LOS PASOS PARA HACER UN TAZON  DE CEREAL CON LECHE.
-*  
-*  
-
-![image](https://github.com/luciaflortop/core.lucia/assets/132409270/963ea889-e4d5-43df-b941-4522488df907)
+*    ![image](https://github.com/luciaflortop/core.lucia/assets/132409270/19ee5b4f-c5f6-4f4e-ae76-f23264fce793)
 
