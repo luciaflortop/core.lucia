@@ -3,7 +3,7 @@
 ## INSTRUCCIONES:
 Haz un programa que simule el lanzamiento de 2 dados 10 veces, y muestre para cada lanzamiento los valores de los dos dados separados por un espacio.
 En caso de que los dos dados arrojen el mismo valor, además del resultado, agrega una cadena al final que diga "los dados son iguales".
-* ``` pcs Algoritmo lanzarDados
+* ``` psc Algoritmo lanzarDados
 	Definir dado1, dado2 Como Entero
 	Para contar=1 Hasta 10 Con Paso 1 Hacer
 		dado1 = Aleatorio(1,6)
