@@ -16,6 +16,8 @@
 	FinPara
 	Imprimir trunc(mayorDistancia) 
 FinAlgoritmo
+
+
 * pego una imagen con mi resultado tambien.
 * ![image](https://github.com/luciaflortop/core.lucia/assets/132409270/573da7d6-c3d3-4b0d-b341-377b662a8d82)
 * ALETA
