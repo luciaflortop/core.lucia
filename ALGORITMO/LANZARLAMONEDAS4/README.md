@@ -35,9 +35,14 @@ SiNo
 FinSi
 
 FinAlgoritmo
+
+
 * Agregue una imagen con mi resultado.
+
+
 ![image](https://github.com/luciaflortop/core.lucia/assets/132409270/ba964ff8-366d-4916-9855-5ca3743fbc89)
+
 *  ALETA.
-FIN DE MI ALGORITMO DE SEMANA 4 DE LANZAR LA MONEDA.
+* FIN DE MI ALGORITMO DE SEMANA 4 DE LANZAR LA MONEDA.
 
 
