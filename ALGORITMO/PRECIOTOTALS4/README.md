@@ -19,6 +19,5 @@ Algoritmo ejemploPrecioTotal
 	
 FinAlgoritmo
 
-
 *  ALETA.
 *  FIN DE MI ALGORITMO DE SEMANA 4 DE PRECIO TOTAL.
