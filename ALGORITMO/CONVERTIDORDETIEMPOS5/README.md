@@ -15,15 +15,15 @@
 		Segundos <- Segundos % 60  // Los segundos restantes
 		
 		Escribir "Días: ", Dias, " Horas: ", Horas, " Minutos: ", Minutos, " Segundos: ", Segundos  // Agregar las comas faltantes
-FinFuncion
+	FinFuncion
 
-Algoritmo ejemplo_conversorDeTiempo	
+	Algoritmo ejemplo_conversorDeTiempo	
 	Definir cantidad Como Entero;  // Agregamos el tipo de datos
 	
 	Escribir "Ingrese una cantidad en segundos: "
 	Leer cantidad
 	conversorDeTiempo(cantidad)  // Llamamos a la función para obtener el resultado
-FinAlgoritmo
+	FinAlgoritmo
 
 * Agrego imgen extra con el resultado.
 *  ![image](https://github.com/luciaflortop/core.lucia/assets/132409270/f81908a4-c8d7-4528-ab57-84b60a5aa1d9).
