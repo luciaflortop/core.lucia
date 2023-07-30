@@ -3,7 +3,8 @@
 ## INSTRUCCIONES:
 * Escribe una función llamada midpoint que dado 2 valores (pueden ser negativos) no devuelva el valor del punto central entre ellos.
 
-```psc Funcion resultado<-puntoCentral(num1,num2)
+```psc
+ Funcion resultado<-puntoCentral(num1,num2)
 	Si num1 > 0 Entonces
 		Si num2 > 0 Entonces
 			Si num1 > num2 Entonces
